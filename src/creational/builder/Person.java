@@ -1,7 +1,5 @@
 package creational.builder;
 
-import java.time.Period;
-
 public class Person {
 
     private String firstName;

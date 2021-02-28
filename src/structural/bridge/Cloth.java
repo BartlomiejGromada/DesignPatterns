@@ -1,7 +1,5 @@
 package structural.bridge;
 
-import java.awt.*;
-
 public abstract class Cloth {
 
     Color color;
